@@ -1,0 +1,15 @@
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/SweetnSalty.deps.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/SweetnSalty.runtimeconfig.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/SweetnSalty.runtimeconfig.dev.json
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/SweetnSalty.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/ref/SweetnSalty.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/bin/Debug/net5.0/SweetnSalty.pdb
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.csproj.AssemblyReference.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.AssemblyInfoInputs.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.AssemblyInfo.cs
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.csproj.CoreCompileInputs.cache
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/ref/SweetnSalty.dll
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.pdb
+/Users/Contemplative/Documents/Revature-CodingChallenge/SweetnSalty/obj/Debug/net5.0/SweetnSalty.genruntimeconfig.cache
